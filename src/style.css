@@ -11,3 +11,19 @@
 .cor-especial{
     color: darkred;
 }
+
+.botao-receita{
+    background-color: darkred;
+    color: white;
+    border-color: darkred;
+}
+
+.botao-receita:hover{
+    background-color: red;
+    color: white;
+    border-color: darkred;
+}
+.card-img-top{
+    object-fit: cover;
+    height: 200px;
+}
