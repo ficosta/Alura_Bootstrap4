@@ -27,3 +27,7 @@
     object-fit: cover;
     height: 200px;
 }
+
+.card{
+    max-width: 18rem;
+}
